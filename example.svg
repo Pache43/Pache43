@@ -27,7 +27,7 @@ xmlns="http://www.w3.org/2000/svg">
             }
             </style>
             <div class="shadow">
-                <img src="wallpaper.png" alt="Wallpaper"/>
+                <img src="https://raw.githubusercontent.com/pache43/pache43/master/wallpaper.png" alt="Wallpaper"/>
             </div>
         </div>
     </foreignObject>
