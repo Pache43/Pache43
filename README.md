@@ -1,5 +1,7 @@
 <h1 align="center">
+  <kbd>
   <img src="wallpaper.png" alt="Wallpaper"/>
+  </kbd>
 </h1>
 
 ## Hey 👋🏼
