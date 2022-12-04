@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/pache43/üache43/master/picture.png" alt="Skyline" />
+  <img src="https://raw.githubusercontent.com/pache43/üache43/master/wallpaper.jpg" alt="Wallpaper" />
 </h1>
 
 ## Hey 👋🏼
