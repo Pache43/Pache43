@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="example.svg" alt="Wallpaper"/>
+  <img src="wallpaper.png" alt="Wallpaper"/>
 </h1>
 
 ## Hey 👋🏼
