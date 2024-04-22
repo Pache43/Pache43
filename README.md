@@ -20,8 +20,9 @@ Learning: Constantly seeking to acquire new knowledge and skills, both within an
     <a>[placeholder]</a>
 </div>
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="./linkedin.webp" alt="LinkedIn" width="20" height="20"> 
-    <a href="https://www.linkedin.com/in/andreas-bruestle-821658199">Andreas Brüstle</a>
+    <img src="./linkedin.webp" alt="LinkedIn" width="20" height="20">
+    <div style="height=20"><a style="text-decoration: none;" href="https://www.linkedin.com/in/andreas-bruestle-821658199">Andreas Brüstle</a></div> 
+    
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px;">
