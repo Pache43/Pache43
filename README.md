@@ -12,20 +12,3 @@ IT Consulting: Strategy, Process Optimization, IT Architecture, Project Manageme
 Gaming: A passionate gamer who loves exploring different genres and challenging myself.  
 Motorcycling: Enjoy hitting the road on my motorcycle, embracing the freedom and thrill it offers.  
 Learning: Constantly seeking to acquire new knowledge and skills, both within and outside my academic field.
-
-## Contact 📞
-
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img src="./mail.webp" alt="LinkedIn" width="20" height="20">
-    <a>[placeholder]</a>
-</div>
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img src="./linkedin.webp" alt="LinkedIn" width="20" height="20">
-    <a style="height:20px;text-decoration: none;" href="https://www.linkedin.com/in/andreas-bruestle-821658199">Andreas Brüstle</a>
-    
-</div>
-
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img src="./website.png" alt="LinkedIn" width="20" height="20"> 
-    <a href="">[placeholder]</a>
-</div>
